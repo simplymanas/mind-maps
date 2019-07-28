@@ -8,13 +8,34 @@
 
 
 
+Below are the mindmaps or notes taken by me while reading articles, attending trainings and reading books.
 
-A few example
 
 ## SOLID Principle
 
+
 ![SOLID Principle](https://github.com/simplymanas/mind-maps/blob/master/software/SOLID-Principle.png)
 
+
+
+## Software Design Concepts
+
+
+![Software Design Concepts](https://github.com/simplymanas/mind-maps/blob/master/software/SoftwareDesignConcepts.png)
+
+
+
+
+## Spring Framework
+
+
+![Spring Framework](https://github.com/simplymanas/mind-maps/blob/master/software/SpringFramework.png)
+
+
+
+
+
+[//]: # (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
 All note by
 Manas Ranjan Dash
