@@ -32,10 +32,19 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 ![Spring Framework](https://github.com/simplymanas/mind-maps/blob/master/software/SpringFramework.png)
 
 
+## AWS Technical Essential 
 
 
+![AWS Technical Essential ](https://github.com/simplymanas/mind-maps/blob/master/software/AWS-TechnicalEssentials.png)
 
-[//]: # (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
+
+## Architecting on AWS 
+
+
+![Architecting on AWS  ](https://github.com/simplymanas/mind-maps/blob/master/software/ArchitectingOnAWS.png)
+
+
+[//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
 All note by
 Manas Ranjan Dash
