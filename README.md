@@ -50,6 +50,9 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 ![Caching](https://github.com/simplymanas/mind-maps/blob/master/software/Caching.png)
 
 
+## How Web Works
+![How Web Works](https://github.com/simplymanas/mind-maps/blob/master/software/HowWebWorks.png)
+
 
 [//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
