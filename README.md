@@ -54,6 +54,9 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 ![How Web Works](https://github.com/simplymanas/mind-maps/blob/master/software/HowWebWorks.png)
 
 
+## Security Part1
+![Security Part1](https://github.com/simplymanas/mind-maps/blob/master/software/SecurityMustKnow-Part1.png)
+
 [//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
 All note by
