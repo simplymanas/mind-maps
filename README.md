@@ -64,7 +64,7 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 
 ## Security Full
 
-![Security Full](https://github.com/simplymanas/mind-maps/blob/master/software/SecurityMustKnowFull.pdf)
+[Security Full PDF download]()
 
 
 [//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
