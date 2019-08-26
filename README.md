@@ -57,6 +57,16 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 ## Security Part1
 ![Security Part1](https://github.com/simplymanas/mind-maps/blob/master/software/SecurityMustKnow-Part1.png)
 
+
+## Security Part2
+![Security Part2](https://github.com/simplymanas/mind-maps/blob/master/software/SecurityMustKnow-Part2.png)
+
+
+## Security Full
+
+![Security Full](https://github.com/simplymanas/mind-maps/blob/master/software/SecurityMustKnow-Full.png)
+
+
 [//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
 All note by
