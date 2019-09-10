@@ -67,6 +67,10 @@ Below are the mindmaps or notes taken by me while reading articles, attending tr
 [Security Full PDF download]()
 
 
+## Code Quality
+![Code Quality](https://github.com/simplymanas/mind-maps/blob/master/software/CodeQualityByManas.png)
+
+
 [//]:# (https://github.com/simplymanas/mind-maps/blob/master/software/Software%20Developer.pdf)
 
 All note by
