@@ -6,6 +6,8 @@
 
 > its creating as well as logical way of note taking.
 
+My blog for the freemind https://dzone.com/articles/mind-map-guide-for-your-first-one
+
 
 
 Below are the mindmaps or notes taken by me while reading articles, attending trainings and reading books.
